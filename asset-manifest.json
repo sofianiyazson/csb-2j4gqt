@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://sofianiyazson.github.io/csb-2j4gqt/static/css/main.06bf2c79.chunk.css",
+    "main.js": "https://sofianiyazson.github.io/csb-2j4gqt/static/js/main.3fecafbc.chunk.js",
+    "main.js.map": "https://sofianiyazson.github.io/csb-2j4gqt/static/js/main.3fecafbc.chunk.js.map",
+    "runtime-main.js": "https://sofianiyazson.github.io/csb-2j4gqt/static/js/runtime-main.f84635b6.js",
+    "runtime-main.js.map": "https://sofianiyazson.github.io/csb-2j4gqt/static/js/runtime-main.f84635b6.js.map",
+    "static/js/2.8bc12123.chunk.js": "https://sofianiyazson.github.io/csb-2j4gqt/static/js/2.8bc12123.chunk.js",
+    "static/js/2.8bc12123.chunk.js.map": "https://sofianiyazson.github.io/csb-2j4gqt/static/js/2.8bc12123.chunk.js.map",
+    "index.html": "https://sofianiyazson.github.io/csb-2j4gqt/index.html",
+    "precache-manifest.24a3e8633cfc59a62521f782e89d56f2.js": "https://sofianiyazson.github.io/csb-2j4gqt/precache-manifest.24a3e8633cfc59a62521f782e89d56f2.js",
+    "service-worker.js": "https://sofianiyazson.github.io/csb-2j4gqt/service-worker.js",
+    "static/css/main.06bf2c79.chunk.css.map": "https://sofianiyazson.github.io/csb-2j4gqt/static/css/main.06bf2c79.chunk.css.map",
+    "static/js/2.8bc12123.chunk.js.LICENSE.txt": "https://sofianiyazson.github.io/csb-2j4gqt/static/js/2.8bc12123.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f84635b6.js",
+    "static/js/2.8bc12123.chunk.js",
+    "static/css/main.06bf2c79.chunk.css",
+    "static/js/main.3fecafbc.chunk.js"
+  ]
+}
